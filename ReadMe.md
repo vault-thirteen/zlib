@@ -1,6 +1,6 @@
 ## zlib
 
-This is an un-official repository for the source code of the zlib project.
+This is an **un-official** repository for the source code of the zlib project.
 
 This repository was created to provide a convenient way to use source codes 
 of the zlib project.
