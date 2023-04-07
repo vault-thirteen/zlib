@@ -12,15 +12,15 @@ Day: 2023-04-02.
 
 Integrity can be verified using following parameters:
 * File sizes
-  * See the `file_sizes.txt` file, [Link](/file_sizes.txt).
+  * See the `file_sizes.txt` file, [Link](./file_sizes.txt).
 
 
 * CRC32 check sums
-  * See the `crc32_sums.txt` file, [Link](/crc32_sums.txt).
+  * See the `crc32_sums.txt` file, [Link](./crc32_sums.txt).
 
 
 * SHA-256 check sums
-  * See the `sha256_sums.txt` file, [Link](/sha256_sums.txt).
+  * See the `sha256_sums.txt` file, [Link](./sha256_sums.txt).
 
 Note: hash sum & size check can be performed with a Hasher tool.  
 It can be obtained in the following repository:  
