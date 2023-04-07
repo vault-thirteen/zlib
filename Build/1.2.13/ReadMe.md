@@ -22,7 +22,7 @@ Integrity can be verified using following parameters:
 * SHA-256 check sums
   * See the `sha256_sums.txt` file, [Link](./sha256_sums.txt).
 
-Note: hash sum & size check can be performed with a Hasher tool.  
-It can be obtained in the following repository:  
-https://github.com/vault-thirteen/Hasher
+**Notes**
 
+Checks of hash sums & sizes can be performed with a `Hasher` tool.  
+Hasher's repository: https://github.com/vault-thirteen/Hasher
