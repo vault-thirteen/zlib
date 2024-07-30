@@ -1,6 +1,6 @@
-D28A4180 example.exe
-C8876AA7 minigzip.exe
-A878530E zlib.dll
-86C913BF zlib.exp
-7DAE9ADF zlib.lib
-9DB69829 zlibstatic.lib
+3FD54F5F example.exe
+39F43625 minigzip.exe
+3E8585DE zlib.dll
+6991916E zlib.exp
+5DCF8A5E zlib.lib
+3C5B034A zlibstatic.lib
