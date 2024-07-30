@@ -1,0 +1,6 @@
+17408 example.exe
+14848 minigzip.exe
+85504 zlib.dll
+9690 zlib.exp
+16638 zlib.lib
+186316 zlibstatic.lib
