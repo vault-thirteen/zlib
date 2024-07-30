@@ -1,6 +1,0 @@
-15CD064B example.exe
-7FDF61CF minigzip.exe
-D89BE04D zlib.dll
-D6984D48 zlib.exp
-3A54CB6C zlib.lib
-427736A1 zlibstatic.lib
